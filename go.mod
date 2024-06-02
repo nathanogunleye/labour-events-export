@@ -1,4 +1,4 @@
-module labour-events
+module labour-events-formatter
 
 go 1.22
 
